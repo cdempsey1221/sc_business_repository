@@ -1,0 +1,7 @@
+com\shakercafe\repository\mongo\MongoInvoiceRepository.class
+com\shakercafe\repository\VendorRepository.class
+com\shakercafe\repository\mongo\MongoVendorRepository.class
+com\shakercafe\domain\Vendor.class
+com\shakercafe\repository\InvoiceRepository.class
+com\shakercafe\domain\Invoice.class
+com\shakercafe\config\RepositoryConfig.class
